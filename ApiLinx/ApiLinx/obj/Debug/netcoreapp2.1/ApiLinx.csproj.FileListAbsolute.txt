@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Cursos_Linx\ApiLinx\ApiLinx\bin\Debug\netcoreapp2.1\ApiLinx.deps.json
+C:\Users\Dell\Desktop\Cursos_Linx\ApiLinx\ApiLinx\bin\Debug\netcoreapp2.1\ApiLinx.runtimeconfig.json
+C:\Users\Dell\Desktop\Cursos_Linx\ApiLinx\ApiLinx\bin\Debug\netcoreapp2.1\ApiLinx.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Cursos_Linx\ApiLinx\ApiLinx\bin\Debug\netcoreapp2.1\ApiLinx.dll
+C:\Users\Dell\Desktop\Cursos_Linx\ApiLinx\ApiLinx\bin\Debug\netcoreapp2.1\ApiLinx.pdb
+C:\Users\Dell\Desktop\Cursos_Linx\ApiLinx\ApiLinx\obj\Debug\netcoreapp2.1\ApiLinx.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Cursos_Linx\ApiLinx\ApiLinx\obj\Debug\netcoreapp2.1\ApiLinx.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Cursos_Linx\ApiLinx\ApiLinx\obj\Debug\netcoreapp2.1\ApiLinx.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\Cursos_Linx\ApiLinx\ApiLinx\obj\Debug\netcoreapp2.1\ApiLinx.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\Cursos_Linx\ApiLinx\ApiLinx\obj\Debug\netcoreapp2.1\ApiLinx.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Cursos_Linx\ApiLinx\ApiLinx\obj\Debug\netcoreapp2.1\ApiLinx.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Cursos_Linx\ApiLinx\ApiLinx\obj\Debug\netcoreapp2.1\ApiLinx.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Desktop\Cursos_Linx\ApiLinx\ApiLinx\obj\Debug\netcoreapp2.1\ApiLinx.dll
+C:\Users\Dell\Desktop\Cursos_Linx\ApiLinx\ApiLinx\obj\Debug\netcoreapp2.1\ApiLinx.pdb
